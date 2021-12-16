@@ -1,1 +1,0 @@
-# Verificacao_automatica_assinaturas
